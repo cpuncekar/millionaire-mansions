@@ -2,4 +2,4 @@
 millionaire mansions resource
 
 
-millionaire from mid journey
+millionaire from Midjourney
