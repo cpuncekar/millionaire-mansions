@@ -11,6 +11,9 @@ Mansion 1
 ## Mansion 2
 ![Millionaire from Midjourney](roosevelt777-millionaire-mansion.png)
 
+## Mansion 3
+[ Millionaire Mansion #3 ](https://cdn.discordapp.com/attachments/1093703543422201946/1295870641546858590/busterpunc_a_house_that_worth_billion_dollor_with_an_infinity_p_2a7f2c23-a104-4869-83e1-732ba5324382.png?ex=67123355&is=6710e1d5&hm=be08b3cadeef2c5c29e5cbbf372247dc88f61bb5f3bc506abea9dbf987781e3e&)
+
 ## About the Project
 These images were generated using Midjourney AI, a powerful tool for creating stunning visuals. The AI leverages advanced algorithms to produce realistic and imaginative designs, making it a valuable resource for artists, designers, and enthusiasts.
 
