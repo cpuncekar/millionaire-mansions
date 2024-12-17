@@ -15,6 +15,7 @@ Mansion 1
 [ Millionaire Mansion 3 ](https://cdn.discordapp.com/attachments/1093703543422201946/1295870641546858590/busterpunc_a_house_that_worth_billion_dollor_with_an_infinity_p_2a7f2c23-a104-4869-83e1-732ba5324382.png?ex=67123355&is=6710e1d5&hm=be08b3cadeef2c5c29e5cbbf372247dc88f61bb5f3bc506abea9dbf987781e3e&)
 
 ## Mansion 4
+![Millionaire from Midjourney](0-mainsion-with-pool-04.jpg)
 [ Millonaire Mansion 4 ] (https://www.midjourney.com/jobs/6d86fb80-98e7-4b72-8108-9233eee344cf?index=0)
 
 ## Mansion 5
