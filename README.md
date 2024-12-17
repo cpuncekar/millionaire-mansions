@@ -18,6 +18,7 @@ Mansion 1
 [ Millonaire Mansion 4 ] (https://www.midjourney.com/jobs/6d86fb80-98e7-4b72-8108-9233eee344cf?index=0)
 
 ## Mansion 5
+![Millionaire from Midjourney](0-mansion-05.jpg)
 [ Millonaire Mansion 5 ] (https://www.midjourney.com/jobs/25131fb8-38ec-4e8b-b3b4-88f660fd3f40?index=0)
 
 ## About the Project
