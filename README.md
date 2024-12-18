@@ -22,6 +22,9 @@ Mansion 1
 ![Millionaire from Midjourney](0-mansion-05.jpg)
 [ Millonaire Mansion 5 ] (https://www.midjourney.com/jobs/25131fb8-38ec-4e8b-b3b4-88f660fd3f40?index=0)
 
+## Mansion Luxury
+[ Millinaire Mansion ] (https://www.midjourney.com/jobs/1a1a8ade-691b-49da-933e-5c68a2803ddc?index=0)
+
 ## About the Project
 These images were generated using Midjourney AI, a powerful tool for creating stunning visuals. The AI leverages advanced algorithms to produce realistic and imaginative designs, making it a valuable resource for artists, designers, and enthusiasts.
 
