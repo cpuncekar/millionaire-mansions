@@ -25,9 +25,13 @@ Mansion 1
 ## Mansion Luxury
 [ Millinaire Mansion ] (https://www.midjourney.com/jobs/1a1a8ade-691b-49da-933e-5c68a2803ddc?index=0)
 
-## Mansion 5
+## Mansion Cars and Gold
 ![Millionaire from Midjourney](0-mainsion-with-cars-and-gold.jpg)
 [ Millonaire Mansion with Cars and Gold ] (https://www.midjourney.com/jobs/026e2918-b297-4ce6-9ee5-33f0584b9fa4?index=0)
+
+## Mansion Cars and Gold
+![Millionaire from Midjourney] (0-mainsion-with-fancy-cars.jpg)
+[ Millonaire Mansion with Cars and Gold ] (https://www.midjourney.com/jobs/20149d04-ef1e-4edd-947e-63a50d2ddfae?index=0)
 
 ## About the Project
 These images were generated using Midjourney AI, a powerful tool for creating stunning visuals. The AI leverages advanced algorithms to produce realistic and imaginative designs, making it a valuable resource for artists, designers, and enthusiasts.
