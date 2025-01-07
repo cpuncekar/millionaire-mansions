@@ -29,9 +29,9 @@ Mansion 1
 ![Millionaire from Midjourney](0-mainsion-with-cars-and-gold.jpg)
 [ Millonaire Mansion with Cars and Gold ] (https://www.midjourney.com/jobs/026e2918-b297-4ce6-9ee5-33f0584b9fa4?index=0)
 
-## Mansion Cars and Gold
+## Mansion Cars and Gold Hyperrealistic
 Description: lambo, mansion and stacks of gold hyperrealistic
-![Millionaire from Midjourney] (0-mainsion-with-fancy-cars.jpg)
+![Millionaire from Midjourney] (000-lambo-mansion.jpg)
 [ Millonaire Mansion with Cars and Gold ] (https://www.midjourney.com/jobs/a5797a9e-ca1c-4da5-9114-923a850bc7d3?index=0)
 
 ## Mansion Cars and Gold
