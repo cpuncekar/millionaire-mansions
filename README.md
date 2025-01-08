@@ -34,9 +34,10 @@ Description: lambo, mansion and stacks of gold hyperrealistic
 ![Millionaire from Midjourney](000-lambo-mansion.jpg)
 [ Millonaire Mansion with Cars and Gold Hyperrealistic ] (https://www.midjourney.com/jobs/a5797a9e-ca1c-4da5-9114-923a850bc7d3?index=0)
 
-## Mansion Cars and Gold
+## Mansion 8 Stories
+Description: 8 story billion $ mansion
 ![Millionaire from Midjourney] (0-mainsion-with-fancy-cars.jpg)
-[ Millonaire Mansion with Cars and Gold ] (https://www.midjourney.com/jobs/20149d04-ef1e-4edd-947e-63a50d2ddfae?index=0)
+[ Millonaire Mansion 8 Stories ] (https://www.midjourney.com/jobs/3c5582f6-c7bb-45f5-b6f4-71a1bf53771d?index=0)
 
 ## Mansion Cars and Gold
 ![Millionaire from Midjourney] (0-mainsion-with-fancy-cars.jpg)
